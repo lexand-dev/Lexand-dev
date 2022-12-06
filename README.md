@@ -15,7 +15,7 @@ You can find me 🌎:
 - [Instagram](https://www.instagram.com/lexand_dev/)
 - [LinkedIn](https://www.linkedin.com/in/alexander-flores-lexandev-rayme-727545165/)
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lexand-dev)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

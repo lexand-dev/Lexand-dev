@@ -1,4 +1,24 @@
-### Hi there 👋
+### Hi, I´m Miguel 👋
+
+![lxi6Rmtu_400x400](https://user-images.githubusercontent.com/105961651/205931211-4e898903-e6e1-4d9a-a228-328c4c9eb50d.jpg)
+
+```js
+const lexandev = {
+  pronouns: "he" | "him",
+  code: [JavaScript, Typescript, HTML, CSS],
+  tools. [React, node, Storybook, Styled-Components, Azure],
+  }
+```
+
+You can find me 🌎:
+- [Twitter](https://twitter.com/Lexand_dev)
+- [Instagram](https://www.instagram.com/lexand_dev/)
+- [LinkedIn](https://www.linkedin.com/in/alexander-flores-lexandev-rayme-727545165/)
+
+
+
+
+
 
 <!--
 **Lexand-dev/Lexand-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

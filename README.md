@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
+ <h1 align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Apassionate+Frontend+Developer;React+TypeScript+Jest+TailwindCSS)](https://git.io/typing-svg)
+ </h1>
  
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Apassionate+Frontend+Developer,React+TypeScript+Jest+TailwindCSS)](https://git.io/typing-svg)
 
 
 

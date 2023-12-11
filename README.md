@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alexander-flores-727545165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexander-flores-727545165/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alexander-flores-rayme-727545165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexander-flores-rayme-727545165/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/lexand_dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/lexand_dev/" height="30" width="40" /></a>
 <a href="https://www.behance.net/alexanderflores34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="alexanderflores34" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/alexflores" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="alexflores" height="30" width="40" /></a>

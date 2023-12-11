@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
-<h3 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Apassionate+Frontend+Developer, React+TypeScript+Jest+TailwindCSS)](https://git.io/typing-svg)</h3>
+ 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Apassionate+Frontend+Developer,React+TypeScript+Jest+TailwindCSS)](https://git.io/typing-svg)
+
+
 
 - 🌱 I’m currently learning **NextJS**
 

@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [www.lexand.com](www.lexand.com)
+- 👨‍💻 All of my projects are available at [lexand.website](https://lexand.website/)
 
 - 💬 Ask me about **React, JavaScript, Performance web and anything about web development**
 
 - 📫 How to reach me **alexfloresrayme@gmail.com**
 
-- 📄 Know about my experiences [lexand.com/blogs](lexand.com/blogs)
+- 📄 Know about my experiences [lexand.website/blog](https://lexand.website/blog)
 
 - ⚡ Fun fact **I like music and cooking**
 

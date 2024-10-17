@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm Alexander</h1>
+<h1>💫 About Me:</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Apassionate+Frontend+Developer;React+TypeScript+Jest+TailwindCSS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Frontend+Developer;React+TypeScript+Jest+TailwindCSS)](https://git.io/typing-svg)
 
 
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning more about Fullstack Web development
 
 - 👨‍💻 All of my projects are available at [lexand.website](https://lexand.website/)
 
-- 💬 Ask me about **React, JavaScript, Performance web and anything about web development**
+- 💬 Ask me about any tech-related stuff.
 
 - 📫 How to reach me **alexfloresrayme@gmail.com**
 
 - 📄 Know about my experiences [lexand.website/blog](https://lexand.website/blog)
 
-- ⚡ Fun fact **I like music and cooking**
+- ⚡ Fun fact **True love lives in lollipops and crisps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -49,4 +49,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lexand-dev&show_icons=true&locale=en&layout=compact" alt="lexand-dev" /></p>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+---
+[![](https://visitcount.itsvg.in/api?id=lexand-dev&label=Profile%20Views&icon=2&pretty=false)](https://visitcount.itsvg.in)
